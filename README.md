@@ -1,5 +1,7 @@
 # Fast-food protein and calories, US menus (259 items)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24541968.svg)](https://doi.org/10.5281/zenodo.24541968)
+
 This file has protein, calories and other nutrition values for 259 menu items at five US chains: McDonald's, Burger King, Subway, Starbucks and Chipotle. We copied every number from the chain's own published nutrition data on the date shown in the file.
 
 It is the data behind the free [Protein Finder](https://health.dailyappslab.com/macroscout/protein-finder/), where you can filter the same items by protein and calories in a browser.
@@ -47,6 +49,10 @@ It is the data behind the free [Protein Finder](https://health.dailyappslab.com/
 ## Use and credit
 
 The nutrition numbers are facts published by the chains. Our compilation and the calculated column are free to reuse under CC BY 4.0. Please credit "MacroScout by Daily Apps Lab" and link the [Protein Finder](https://health.dailyappslab.com/macroscout/protein-finder/).
+
+To cite it: Iqbal, J. (2026). *Fast-food protein and calories, US menus* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24541968
+
+The same data, with a preview table, is at [dailyappslab.github.io/data/fast-food-protein-us](https://dailyappslab.github.io/data/fast-food-protein-us/).
 
 ## Who made this
 
