@@ -1,0 +1,11 @@
+{
+  "title": "Fast-food protein and calories, US menus",
+  "upload_type": "dataset",
+  "description": "<p>Protein, calories and other nutrition values for 259 menu items at McDonald's, Burger King, Subway, Starbucks and Chipotle in the US, copied from each chain's own published nutrition data, with the date each value was read and a protein-per-100-calories column.</p><p>The data behind the free Protein Finder: <a href=\"https://health.dailyappslab.com/macroscout/protein-finder/\">https://health.dailyappslab.com/macroscout/protein-finder/</a></p>",
+  "creators": [{"name": "Iqbal, Javed", "affiliation": "Daily Apps Lab"}],
+  "license": "cc-by-4.0",
+  "keywords": ["nutrition", "protein", "calories", "fast food", "restaurant menus", "dataset"],
+  "related_identifiers": [
+    {"identifier": "https://health.dailyappslab.com/macroscout/protein-finder/", "relation": "isSupplementTo", "resource_type": "other"}
+  ]
+}
